@@ -12,24 +12,24 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
-          }
-        },
         "text_zJLaFe": {
           "type": "text",
           "settings": {
             "text": "<a href=\"https:\/\/slimcase.vn\/collections\/slim-iphone-cases?filter.v.m.custom.case_model=Unique+2\">Xem Thêm<\/a>",
             "text_style": "body"
           }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Slimcase Unique 2",
+            "heading_size": "h1"
+          }
         }
       },
       "block_order": [
-        "heading",
-        "text_zJLaFe"
+        "text_zJLaFe",
+        "heading"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/aaaa.webp",
