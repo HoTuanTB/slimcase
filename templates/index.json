@@ -19,6 +19,13 @@
             "text_style": "body"
           }
         },
+        "text_w8yMWR": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Cho iPhone 15 series<\/strong>",
+            "text_style": "body"
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
@@ -29,6 +36,7 @@
       },
       "block_order": [
         "text_zJLaFe",
+        "text_w8yMWR",
         "heading"
       ],
       "settings": {
